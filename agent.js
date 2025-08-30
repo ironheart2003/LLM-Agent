@@ -36,7 +36,7 @@ class LLMAgent {
         this.clearChatBtn.addEventListener('click', () => this.clearChat());
 
         // Initialize with welcome message
-        this.addMessage('agent', 'Welcome to AgentFlow! 🧠 I\'m your intelligent AI assistant with powerful multi-tool capabilities. I can help you with real-time web searches, AI-powered workflows, and code execution. Configure your API keys to unlock my full potential, or explore my capabilities right away. What would you like to accomplish today?');
+        this.addMessage('agent', 'Welcome to AgentSaathi! 🧠 I\'m your intelligent AI assistant with powerful multi-tool capabilities. I can help you with real-time web searches, AI-powered workflows, and code execution. Configure your API keys to unlock my full potential, or explore my capabilities right away. What would you like to accomplish today?');
         this.updateMessageCount();
     }
 
@@ -67,7 +67,7 @@ class LLMAgent {
         this.conversationEl.innerHTML = '';
         
         // Add welcome message back
-        this.addMessage('agent', 'Welcome back to AgentFlow! 🧠 I\'m ready to assist you with intelligent searches, AI workflows, and code execution. What can I help you accomplish?');
+        this.addMessage('agent', 'Welcome back to AgentSaathi! 🧠 I\'m ready to assist you with intelligent searches, AI workflows, and code execution. What can I help you accomplish?');
         
         // Update message count
         this.updateMessageCount();
