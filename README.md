@@ -1,5 +1,5 @@
 # LLM-Agent
-# AgentFlow - Intelligent Multi-Tool AI Assistant
+# AgentSaathi - Intelligent Multi-Tool AI Assistant
 
 An advanced browser-based AI agent that uses multiple tools in a reasoning loop to accomplish complex tasks intelligently.
 
@@ -203,4 +203,4 @@ MIT License - Feel free to modify and extend!
 
 ## Creator
 
-**AgentFlow** was created by **kishlay kumar** - An intelligent multi-tool AI assistant designed to showcase the power of browser-based agent reasoning and workflow automation.
+**AgentSaathi** was created by **kishlay Kumar** - An intelligent multi-tool AI assistant designed to showcase the power of browser-based agent reasoning and workflow automation.
